@@ -1,2 +1,2 @@
-# data_for_rxresu.me
+# Data for RxResu.me
 Exported data from https://rxresu.me/
